@@ -221,4 +221,4 @@ if st.button("Get Response"):
 
 # Footer
 st.markdown("---")
-st.markdown("Developed by Prakhar Shukla with ❤️")
+st.markdown("Developed by Sambhav Sharma with ❤️")
